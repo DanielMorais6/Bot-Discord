@@ -13,8 +13,8 @@ O **Ro-Bob** é um bot multifuncional para servidores Discord, desenvolvido por 
 - `/play [nome da música]` → pesquisa e toca músicas diretamente do YouTube
 - `/pause` → pausa a música atual
 - `/resume` → continua a reprodução
-- `/skip` → pula para a próxima
-- `/stop` → para e desconecta do canal de voz
+- `/pular` → pula para a próxima
+- `/parar` → para e desconecta do canal de voz
 - 🎶 Suporte a fila por servidor, tocando músicas em sequência
 
 ### 💬 Chat com Inteligência Artificial (Gemini)
